@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136121386451",
+    "firebase_url": "https://riese-e64ff.firebaseio.com",
+    "project_id": "riese-e64ff",
+    "storage_bucket": "riese-e64ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136121386451:android:4373e6715af37692",
+        "android_client_info": {
+          "package_name": "com.example.jose_eduardo.riese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136121386451-1io5l4v8h4jahdrmuu9mlca924ogtejp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhh2_qeQDBUBFts_djQdhffvi7DY2lqgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136121386451-1io5l4v8h4jahdrmuu9mlca924ogtejp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

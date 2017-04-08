@@ -18,6 +18,10 @@ import android.telephony.CellLocation;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
+import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -25,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView t;
     private LocationManager locationManager;
     private LocationListener listener;
+    private AdView mAdView;
 
 
     @Override
@@ -33,8 +38,12 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
+
+
         t = (TextView) findViewById(R.id.textView);
         b = (Button) findViewById(R.id.button);
+
+
 
         locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
 

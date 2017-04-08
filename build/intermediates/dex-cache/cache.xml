@@ -3,66 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_2a5ad2aeb1bcac7e9da7d87a3840e9479156642f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_259a165a7bdc3a1ca0ccfbf8b632163f40978b77/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_409ff5f589be78caa1799763938fd21d93a0aa5e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_40a789de07ffdcb6b18691ca56860ce53ba15f5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_f922745973365d64a8db4b06ede646fafa8cc219/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_5b3f00cbdf922462092393bd2079a8d5b72b5f2c/classes.dex" />
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_063248f6e700a99d4f98bfb7720fe70ca4b6102b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7b7345b929472dd6e4ab241b19e3cc350b4f5b43">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fabb34b509978a146e134a78ed7a8372a502b47/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_924b8e521b4a0c1f525751ae6d5c3a2c479feee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_8a1749f0b2b915a44a8980430ea97169565475a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ca15d55af57af1f333ebce25c6a65f02d4f418fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_579c0ff40730a48524bc51d9b8a90c586361f18b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_f5878330229803f237fc3a4bab538ba67f81d009/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,43 +62,160 @@
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_b7d9020a24ac0bf47ebd30199be79c20b9b85524/classes.dex" />
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_b7d9020a24ac0bf47ebd30199be79c20b9b85524/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6aa59ae596caad9c59e0ecfd4d6a472f717ceba1">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45b4465595ae58e55cd22aa970723d03764a55b5/classes.dex" />
+        sha1="15359ca1b0c4894b50abb9a824414627efa012f4">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b2c10123053f1d254bb387cc9813314f939294af/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d5f1484a6dc590eb6865d12289fff99524a0d837/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_f83e8e9bdcf7c625b9a4fee6df3e030d74a00819/classes.dex" />
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_59e85d2d58f38cb884d8ee61713fb2a40a274fb7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_5c81047d30c53d23d63722855ddbb5465eba9663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_dedff13e358304a41686c3f25c92615b05608e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_cab9a0d863e7a176659d8032b079fbbafb84ae85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8b4be2283d096c5c0418f2e6cffa3e903b2964">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8608c202b305a7c7d405c7eaedaf52dac83edcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_9e33030d4758a96d78bd3527ecb80312c6fed17e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/home/jose-eduardo/Área de Trabalho/Meus Arquivos/Riese/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_ae3ecd0a3d73448e713f896c7bee9bfbd80ed388/classes.dex" />
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_daac2fc25177387d5137b40b2c3c6f5048caee0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4cbe5ace261ccca20ad222c7c940c4d8145ef1e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_c750c3cb7c18aca33ff81d655e9f64a61e98c163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ffb907b90ba8352b178ed07b23b1215968815ce5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_f303b7188833df0a3be4dce6a9d72542f26f28a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_f67cbb2dd0d89a7980a9d05e5530a595272c2993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_35accdcc417a6b9b78c7baa99a1edead35640311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_c47effd2e9a415ef4285dc8cedfce2f94827f40e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_1dd68ebe717688dbaae46b39f7869fb6c2ac077e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/jose-eduardo/AREA DE TESTE/Riese/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_c55546367c3cce6f209ce76809fff6efdcf5c62b/classes.dex" />
     </item>
 
 </items>
